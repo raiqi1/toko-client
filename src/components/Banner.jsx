@@ -41,7 +41,7 @@ const Banner = () => {
                     to="#"
                   >
                     <img
-                      src={`http://localhost:3000/images/banner/${img}.jpg`}
+                      src={`https://toko-client.vercel.app/images/banner/${img}.jpg`}
                       alt=""
                     />
                   </Link>

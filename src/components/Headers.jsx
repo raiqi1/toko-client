@@ -253,7 +253,7 @@ const Headers = () => {
         >
           <div className="flex justify-start flex-col gap-6">
             <Link to="/">
-              <img src="http://localhost:3000/images/logo.png" alt="logo" />
+              <img src="https://toko-client.vercel.app/images/logo.png" alt="logo" />
             </Link>
             <div className="flex justify-star items-center gap-10">
               <div className="flex group cursor-pointer text-slate-800 text-sm justify-center items-center gap-1 relative after:h-[18px] after:w-[1px] after:bg-[#afafaf] after:-right-[16px] after:absolute">

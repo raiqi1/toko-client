@@ -93,7 +93,7 @@ const Register = () => {
                             </div>
                         </div>
                         <div className='w-full h-full py-4 pr-4'>
-                            <img className='w-full h-[95%]' src="http://localhost:3000/images/login.jpg" alt="" />
+                            <img className='w-full h-[95%]' src="https://toko-client.vercel.app/images/login.jpg" alt="" />
                         </div>
                     </div>
                 </div>
