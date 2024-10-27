@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import axios from "axios";
-const local = "http://localhost:5000";
-const production = "http://localhost:6000";
+const local = "https://ecom-api-swart.vercel.app";
+const production = "https://ecom-api-swart.vercel.app";
 
 let api_url = "";
 let mode = "pro";
